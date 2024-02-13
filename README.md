@@ -1,7 +1,7 @@
 # Data Analyst
 
 ### Education
-Computer Science with Economics
+BSc Computer Science with Economics
 
 ### Work Experience
 Data Reprting Analyst @ 3Bytes Servives Limited
@@ -9,4 +9,4 @@ Data Reprting Analyst @ 3Bytes Servives Limited
 - Big impact Project 2
 
 ### Projects
-Sales Discovery
+Sales Insight
